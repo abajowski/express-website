@@ -1,0 +1,25 @@
+{
+  "name": "express-website",
+  "version": "1.0.0",
+  "description": "Simple express website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abajowski/express-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abajowski/express-website/issues"
+  },
+  "homepage": "https://github.com/abajowski/express-website#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  }
+}
